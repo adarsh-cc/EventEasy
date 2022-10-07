@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-07-01
+Pega-Codeset-Version: 06-01-01
+ArtifactName: EventEasy_V1
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2022-Oct-07 00:00:00
+Version: 01.01.01
+PRPC-Engine: 8.7.0 PRPC-8.7.0-163 ()
+Operator: Deep.D
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: EventEasy_V1
+Archive-Type: PegaArchive
+Export-Date: 2022-Oct-07 05:45:30
+Pega-Codeset-Name: Customer
+Instance-Count: 6700
+
+Name: FileMetadata
+
